@@ -1,5 +1,5 @@
 # Public Data Sets
-This repository introduces several public data sources for Economics, Social Science, Political Science, or Busienss research and how to download or extract data from these different sources.
+This repository introduces several public data sources for Economics, Social Science, Political Science, or Busienss research and demonstrates how to download or extract the data from these sources.
 
 ## Data Sources:
 
